@@ -14,6 +14,14 @@ The components of the AMS are listed in a paper:
 
 also available through [NTNU Open](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3051584)
 
+More about our work:
++ Webinar [SANO Sustainability Series 2023: Portable Catamaran Drones for Remote Sampling of Microplastics](https://www.youtube.com/watch?v=QLcQEyu-LiU)
++ Norwegian SciTech News article [“Pamela” makes studying the ocean easy and affordable](https://norwegianscitechnews.com/2022/07/pamela-makes-studying-the-ocean-easy-and-affordable/)
+and video [“Pamela” makes studying the ocean easy](https://www.youtube.com/watch?v=ubaJj9XLwgI)
++ Same article in Norwegian [Liten NTNU-robot gjør det enklere å samle mikroplast fra havet](https://gemini.no/2022/08/liten-ntnu-robot-skal-studere-mikroplast-fra-havet/)
++ [Plastiverse](https://www.plastiverse.org/tools/portable-catamaran-drone)
+
+
 ## Citation
 
 If you use this repository or the paper please cite as:
